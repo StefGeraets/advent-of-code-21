@@ -43,5 +43,5 @@ const multiplyObject = (object) => {
   return numbers[0] * numbers[1];
 }
 
-console.log(directions(test))
-console.log(multiplyObject(directions(test)))
+console.log(directions(real))
+console.log(multiplyObject(directions(real)))
